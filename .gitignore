@@ -1,0 +1,12 @@
+*.bin
+*.elf
+*.s
+test_*
+target
+*.img
+*.o
+!xv6-kernel.bin
+!xv6-fs.img
+test/*
+.vscode/*
+**/__pycache__
